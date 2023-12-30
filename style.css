@@ -1,5 +1,7 @@
-header{
- background: #ddd;
+header {
+  background: #ddd;
 }
-
-
+.slider-box {
+  width: 500px;
+  margin-bottom: 2%;
+}
